@@ -65,7 +65,8 @@ utilizando seu raio que será fornecido como parâmetro. Considere Pi = 3,14.
 
 ````js
 function circulo(raio) {
-    let area = Math.PI * raio**2 //Math.PI representa o valor de PI
+// Math.PI representa o valor de PI
+    let area = Math.PI * raio**2 
     let diametro = Math.PI * 2 * raio
     console.log(`Area do circulo: ${area} metros quadrados`);
     console.log(`Perimetro do circulo: ${diametro} metros`);
