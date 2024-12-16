@@ -1,6 +1,7 @@
 # Repositório de Exercícios de JavaScript - Curso Alura
 
 Bem-vindo ao repositório de exercícios do curso de JavaScript da [Alura](https://cursos.alura.com.br/formacao-programacao). 
+
 Este repositório contém exercícios práticos feitos por mim, organizados por módulos, projetados para reforçar os conceitos apresentados ao longo do curso.
 
 ## Estrutura do Repositório
