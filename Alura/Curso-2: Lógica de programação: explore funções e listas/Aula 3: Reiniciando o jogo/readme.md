@@ -95,3 +95,7 @@ function tabuada(numero2) {
 let valor = promtpt('Digite um valor: ');
 tabuada(valor);
 ````
+
+## Recursos Adicionais
+
+- [Math.PI](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/PI)
