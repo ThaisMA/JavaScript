@@ -12,18 +12,11 @@ $ tree -d
 ├── Curso-1: Lógica de programação: mergulhe em programação com JavaScript
 │   ├── Aula 1: Iniciando com JavaScript
 │   ├── Aula 2: Condicionais e concatenação
-│   │   └── exercicio1.js
 │   ├── Aula 3: Loops e tentativas
-│   │   └── exercicio2.js
-│   ├── Aula 4: Boas práticas de programação
-│   │   └── exercicio3.js
-│   └── Aula 5: Desafio
-│   │   └── exercicio4.js
+│   └── Aula 4: Boas práticas de programação
 ├── Curso-2: Lógica de programação: explore funções e listas
 │   ├── Aula 1: Funções
-│   │   └── exercicio5.js
-│   ├── Aula 2: Reiniciando o jogo
-│   │   └── exercicio6.js
+│   └── Aula 2: Reiniciando o jogo
 
 ```
 
