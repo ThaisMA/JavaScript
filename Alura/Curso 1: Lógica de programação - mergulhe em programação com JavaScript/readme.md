@@ -1,5 +1,6 @@
 # Resolução dos desafios
 
+---
 1) Pergunte ao usuário qual é o dia da semana. 
 Se a resposta for "Sábado" ou "Domingo", mostre "Bom fim de semana!". 
 Caso contrário, mostre "Boa semana!".
@@ -17,6 +18,7 @@ if (diaSemana == "sabado" || diaSemana == 'domingo') {
 }
 ````
 
+---
 2) Verifique se um número digitado pelo usuário é positivo ou negativo. Mostre um alerta informando.
 --- 
 
@@ -29,11 +31,11 @@ if (numero >=0){
 }
 ````
 
-
+---
 3) Crie um sistema de pontuação para um jogo. 
 Se a pontuação for maior ou igual a 100, mostre "Parabéns, você venceu!". 
 Caso contrário, mostre "Tente novamente para ganhar.".
-
+---
 
 ````js
 let numero = prompt("Digite um numero: ")
@@ -45,18 +47,18 @@ if (numero >=100){
 }
 ````
 
-
+---
 4) Crie uma mensagem que informa o usuário sobre o saldo da conta, usando uma template string para incluir o valor do saldo.
-
+---
 
 ````js
 let saldo = prompt("Digite o seu saldo: ")
 alert(`Seu saldo eh: R$${saldo}`)
 ````
 
-
+---
 5) Peça ao usuário para inserir seu nome usando prompt. Em seguida, mostre um alerta de boas-vindas usando esse nome.
-
+---
 
 ````js
  let nome = prompt("Digite seu nome: ")
