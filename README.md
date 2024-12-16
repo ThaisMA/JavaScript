@@ -28,6 +28,8 @@ $ tree -d
 ```
 
 ## Aulas em andamento  <img src="https://i.sstatic.net/kOnzy.gif" width="30px" height="30px">
+<details>
+    
 - [ ] Curso-2: Lógica de programação: explore funções e listas
     - [ ] Aula 3: Listas
     - [ ] Aula 4: Publicando o projeto
@@ -44,8 +46,8 @@ $ tree -d
     - [ ] Aula 4: Projeto Ingresso Online
     - [ ] Aula 5: Projeto Amigo Secreto
     - [ ] Aula 6: Desafios complementares
-     
-  
+ </details>     
+
 ## Recursos Adicionais
 
 - [Documentação Oficial do JavaScript (MDN)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
