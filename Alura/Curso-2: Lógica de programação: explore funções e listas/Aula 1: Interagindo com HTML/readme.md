@@ -24,40 +24,6 @@ function verificarChute(){
     console.log('O botao foi clicado');
 }
 ````
-
-> [!TIP]
-> A variável com o código ***document.querySelector('input').value*** captura o valor inserido em um elemento HTML ***input***.
-> 
-> **O que faz cada parte:**
->
-> 1) **document.querySelector('input')**:
->
-> Seleciona o primeiro elemento ***input*** encontrado no DOM (Document Object Model).
->
-> 2) **.value**:
->
-> Obtém o valor atualmente presente no campo de entrada do **input**.
->
-> **Exemplo de uso:**
->
-> Se o HTML tiver o seguinte campo de entrada:
->
-> ````js
-> <input type="text" value="Olá Mundo">
-> ````
-> E o código for:
-> ````js
-> let valor = document.querySelector('input').value;
-> console.log(valor);
-> ````
-> O console exibirá:
-> ````js
-> Olá Mundo
-> ````
-> Resumo:
-> ***document.querySelector('input').value*** permite acessar ou manipular o texto que o usuário digitou
-> ou o valor inicial definido no elemento **input**.
-
 ---
 4) Crie uma função que exiba um alerta com a mensagem: ***Eu amo JS***, sempre que o botão **Alerta** for pressionado.
 ---
@@ -94,4 +60,37 @@ function soma(){
     alert(`A soma do numero eh ${soma}`)
 }
 ````
-
+> [!TIP]
+> **Exercicio 3:**
+> 
+> A variável com o código ***document.querySelector('input').value*** captura o valor inserido em um elemento HTML ***input***.
+> 
+> **O que faz cada parte:**
+>
+> 1) **document.querySelector('input')**:
+>
+> Seleciona o primeiro elemento ***input*** encontrado no DOM (Document Object Model).
+>
+> 2) **.value**:
+>
+> Obtém o valor atualmente presente no campo de entrada do **input**.
+>
+> **Exemplo de uso:**
+>
+> Se o HTML tiver o seguinte campo de entrada:
+>
+> ````js
+> <input type="text" value="Olá Mundo">
+> ````
+> E o código for:
+> ````js
+> let valor = document.querySelector('input').value;
+> console.log(valor);
+> ````
+> O console exibirá:
+> ````js
+> Olá Mundo
+> ````
+> Resumo:
+> ***document.querySelector('input').value*** permite acessar ou manipular o texto que o usuário digitou
+> ou o valor inicial definido no elemento **input**.
