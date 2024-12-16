@@ -90,5 +90,6 @@ function tabuada(numero2) {
         cont++;
     }
 }
-tabuada(3)
+let valor = promtpt('Digite um valor: ');
+tabuada(valor);
 ````
