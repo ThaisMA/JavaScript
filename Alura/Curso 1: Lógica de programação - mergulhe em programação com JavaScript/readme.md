@@ -23,11 +23,11 @@ if (diaSemana == "sabado" || diaSemana == 'domingo') {
 --- 
 
 ````js
-let numero = prompt("Digite um numero: ")
+let numero = prompt("Digite um numero: ");
 if (numero >=0){
-    alert("numero positivo")
+    alert("numero positivo");
 }else{
-    alert("numero negativo")
+    alert("numero negativo");
 }
 ````
 
@@ -38,12 +38,12 @@ Caso contrário, mostre "Tente novamente para ganhar.".
 ---
 
 ````js
-let numero = prompt("Digite um numero: ")
-console.log(numero)
+let numero = prompt("Digite um numero: ");
+console.log(numero);
 if (numero >=100){
-    alert(`Parabéns, você venceu e digitou o numero: ${numero} !`)
+    alert(`Parabéns, você venceu e digitou o numero: ${numero} !`);
 }else{
-    alert("Tente novamente para ganhar.")
+    alert("Tente novamente para ganhar.");
 }
 ````
 
@@ -52,8 +52,8 @@ if (numero >=100){
 ---
 
 ````js
-let saldo = prompt("Digite o seu saldo: ")
-alert(`Seu saldo eh: R$${saldo}`)
+let saldo = prompt("Digite o seu saldo: ");
+alert(`Seu saldo eh: R$${saldo}`);
 ````
 
 ---
@@ -61,6 +61,6 @@ alert(`Seu saldo eh: R$${saldo}`)
 ---
 
 ````js
- let nome = prompt("Digite seu nome: ")
- alert(`Ola ${nome}!!`)
+ let nome = prompt("Digite seu nome: ");
+ alert(`Ola ${nome}!!`);
 ````
