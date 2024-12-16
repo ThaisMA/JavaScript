@@ -15,8 +15,9 @@ $ tree -d
 │   ├── Aula 3: Loops e tentativas
 │   └── Aula 4: Boas práticas de programação
 ├── Curso-2: Lógica de programação: explore funções e listas
-│   ├── Aula 1: Funções
-│   └── Aula 2: Reiniciando o jogo
+│   ├── Aula 1: Interagindo com HTML
+│   ├── Aula 2: Funções
+│   └── Aula 3: Reiniciando o jogo
 
 ```
 
@@ -24,8 +25,8 @@ $ tree -d
 <details>
     
 - [ ] Curso-2: Lógica de programação: explore funções e listas
-    - [ ] Aula 3: Listas
-    - [ ] Aula 4: Publicando o projeto
+    - [ ] Aula 4: Listas
+    - [ ] Aula 5: Publicando o projeto
 - [ ] Curso-3: Git e GitHub: compartilhando e colaborando em projetos
     - [ ] Aula 1: Iniciando com JavaScript
     - [ ] Aula 2: Colaborando em projetos
