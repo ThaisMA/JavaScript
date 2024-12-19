@@ -17,16 +17,14 @@ $ tree -d
 ├── Curso-2: Lógica de programação: explore funções e listas
 │   ├── Aula 1: Interagindo com HTML
 │   ├── Aula 2: Funções
-│   └── Aula 3: Reiniciando o jogo
-
+│   ├── Aula 3: Reiniciando o jogo
+│   ├── Aula 4: Listas
+│   └── Aula 5: Publicando o projeto
 ```
 
 ## Aulas em andamento  <img src="https://i.sstatic.net/kOnzy.gif" width="30px" height="30px">
 <details>
     
-- [ ] Curso-2: Lógica de programação: explore funções e listas
-    - [ ] Aula 4: Listas
-    - [ ] Aula 5: Publicando o projeto
 - [ ] Curso-3: Git e GitHub: compartilhando e colaborando em projetos
     - [ ] Aula 1: Iniciando com JavaScript
     - [ ] Aula 2: Colaborando em projetos
